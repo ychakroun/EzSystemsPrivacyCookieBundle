@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "symfony/symfony": "^2.6|^3.x",
+        "symfony/symfony": "^2.6|>3.0",
         "symfony/assetic-bundle": "^2.3"
     },
     "autoload": {
